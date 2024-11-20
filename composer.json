@@ -27,7 +27,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Kiefer2408/TP2-PHP"
+            "url": "https://github.com/Kiefer2408/TP2-PHP/tree/main"
         }
     ]
 
